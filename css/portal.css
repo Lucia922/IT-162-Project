@@ -88,8 +88,9 @@ footer {
 			
     img.desktop {
             float: left;
+            margin-right: 10px;
             width:55%;
-            display:inline-block;
+            display:block;
             
     }
     
