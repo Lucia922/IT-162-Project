@@ -9,6 +9,7 @@ html {
 main.wrapper {
     background-color:#fff;
     overflow:auto;
+    
 }
 
 h1>a {
@@ -18,9 +19,27 @@ h1>a {
 
 .logo {
     color:red;
-    margin-left:1%;
+    margin-left:3%;
     text-shadow:1px 1px #ccc;
     font-size:1.25em;
+}
+
+.pageID {
+    margin-left: 10%;
+    margin-top: 8%;
+}
+
+.tablet {
+    margin-left: 5%;
+    margin-top: 5%;
+}
+
+.desktop {
+    margin-left: 5%;
+}
+
+p {
+    margin-left: 7%;
 }
 
 /* Embed Responsively Rules! */
@@ -56,17 +75,17 @@ footer {
 	}
 
     section {
-		width:65%;
-		float:left;
+		width:70%;
+		float: left;
 	}
 	
      aside {	
 		width:34%;
-		float:right;
+		float: right;;
 	}
 			
     img.desktop {
-            float: left;
+            float: none;
        		width:50%;
             display:inline-block;
     }
