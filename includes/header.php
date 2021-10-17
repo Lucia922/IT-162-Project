@@ -23,7 +23,7 @@
       <li><a href="aia.php">AIA</a></li>
       <li><a href="flowchart.php">FLOWCHART/LAYOUT</a></li>
       <li><a href="fp/index.php">FINAL PROJECT</a></li>
-      <li><a href="contactme.php">CONTACT ME</a></li>
+      <li><a href="contact.php">CONTACT ME</a></li>
       <li class="icon"> <a href="javascript:void(0);" onclick="myFunction()">&#9776;</a> </li>
     </ul>
   </nav>
