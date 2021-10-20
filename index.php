@@ -6,6 +6,7 @@ include 'includes/header.php';
    <!-- MAKE SURE YOU GET YOUR (3) IMAGES SAVED INTO YOUR IMAGES FOLDER -->
     <img src="images/desktop.jpg" class="desktop" alt="" />
     <img src="images/phone.jpg" class="phone" alt="" />
+    <h3>About Me</h3>
     <p> My name is Jinhee Byoun.<br>
       I have worked as a fashion designer for more than a decade, and
       returned to college for my second career. Attention to small details was
@@ -24,7 +25,7 @@ include 'includes/header.php';
 
 <!-- START RIGHT COL -->
 <aside>
-    <h3>ABOUT ME</h3>
+    <h3></h3>
     <img src="images/tablet.jpg" class="tablet" alt="" />
     <p></p>
     <p></p>
