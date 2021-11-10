@@ -2,9 +2,10 @@
 include 'includes/header.php';
 ?>
 
-
+<!-- START LEFT COL -->
+<section>
+    <h2 class="pageID"><?=$pageID?></h2>
    <!-- MAKE SURE YOU GET YOUR (3) IMAGES SAVED INTO YOUR IMAGES FOLDER -->
-    <img src="images/desktop.jpg" class="desktop" alt="" />
     <img src="images/phone.jpg" class="phone" alt="" />
     <h3>About Me</h3>
     <p> My name is Jinhee Byoun.<br>
@@ -25,8 +26,8 @@ include 'includes/header.php';
 
 <!-- START RIGHT COL -->
 <aside>
-    <h3></h3>
     <img src="images/tablet.jpg" class="tablet" alt="" />
+    <img src="images/desktop.jpg" class="desktop" alt="" />
     <p></p>
     <p></p>
 </aside>

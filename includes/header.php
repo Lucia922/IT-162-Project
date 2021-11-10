@@ -11,6 +11,7 @@
 <link rel="stylesheet" href="css/nav.css" />
 <link rel="stylesheet" href="css/portal.css" />
 <link rel="stylesheet" href="css/form.css" />
+<link rel="stylesheet" href="css/aia.css" />
 </head>
 
 <body>
@@ -34,6 +35,3 @@
   </nav>
 </header>
 
-<!-- START LEFT COL -->
-<section>
-    <h2 class="pageID"><?=$pageID?></h2>
