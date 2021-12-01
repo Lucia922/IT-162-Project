@@ -1,6 +1,6 @@
 <?php include 'portal-config.php'?>
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <title><?=$title?></title>
 <meta name="viewport" content="width=device-width" />
