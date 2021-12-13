@@ -2,7 +2,7 @@
 <footer>
     <p><small>&copy; 2021-<?=date("Y")?> by 
         <a href="contact.php">Jinhee Byoun</a>, All Rights Reserved ~ 
-        <a id="html-checker" href="#">Check HTML</a> ~ 
+        <a href="http://validator.w3.org/check/referer">Check HTML</a> ~ 
         <a href="https://jigsaw.w3.org/css-validator/check?uri=referer">Check CSS</a></small>
    </p>
 </footer>
